@@ -130,8 +130,6 @@ class GameTest {
   }
 
   
-  //The tests beyond this point are generally more difficult to pass based on the methods they are assessing, 
-  // therefore you may wish to focus on passing the tests above first.
   
   
   @Test def test_20_adarsave {
